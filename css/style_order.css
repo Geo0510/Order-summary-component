@@ -11,7 +11,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  min-height: 150vh;
+  min-height: 130vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -46,8 +46,8 @@ body {
 
 /* image and container */
 .container_img {
-  width: 450px;
-  height: 210px;
+  width: 400px;
+  height: 180px;
 }
 
 .img_order {
@@ -62,10 +62,10 @@ body {
 /* card container */
 .container_order {
   position: relative;
-  width: 450px;
-  height: 650px;
+  width: 400px;
+  height: 600px;
   background-color: #fff;
-  padding: 30px;
+  padding: 40px;
   border-radius: 15px;
 }
 
