@@ -20,7 +20,8 @@ body {
 /* class for the background of the body */
 .background_body {
   position: absolute;
-  top: -100px;
+  width: 100%;
+  top: 0;
   right: 0;
 }
 
