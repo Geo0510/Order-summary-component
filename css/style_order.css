@@ -11,7 +11,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  min-height: 100vh;
+  min-height: 150vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -46,8 +46,8 @@ body {
 
 /* image and container */
 .container_img {
-  width: 400px;
-  height: 180px;
+  width: 450px;
+  height: 210px;
 }
 
 .img_order {
@@ -62,10 +62,10 @@ body {
 /* card container */
 .container_order {
   position: relative;
-  width: 400px;
-  height: 600px;
+  width: 450px;
+  height: 650px;
   background-color: #fff;
-  padding: 40px;
+  padding: 30px;
   border-radius: 15px;
 }
 
@@ -73,8 +73,8 @@ body {
 .container_change {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  height: 40%;
+  justify-content: space-around;
+  height: 45%;
 }
 
 /* middle card*/
@@ -91,7 +91,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 60%;
+  width: 55%;
 }
 
 .Anual_plan-text {
